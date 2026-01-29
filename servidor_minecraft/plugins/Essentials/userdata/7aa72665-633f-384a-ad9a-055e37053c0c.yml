@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.224.102.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1769650556736
+  login: 1769650415635
+money: '0'
+last-account-name: pngToball
+lastlocation:
+  world: 9480da44-6a8e-4dd0-abdb-e26b6197ac38
+  world-name: world_minecraft_mario
+  x: -43.57257794759951
+  y: 144.10379957518677
+  z: -3.939112930354545
+  yaw: 10.940399169921875
+  pitch: 51.49820327758789
+logoutlocation:
+  world: 31f64945-dcd5-44af-8271-76112145d587
+  world-name: fnafbox
+  x: -0.0016970474116188997
+  y: 193.0
+  z: -27.46103101360453
+  yaw: 17.24203872680664
+  pitch: 12.266477584838867

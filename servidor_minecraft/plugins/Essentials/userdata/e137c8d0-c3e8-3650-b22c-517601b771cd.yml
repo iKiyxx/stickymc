@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.10.241.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1769650728631
+  login: 1769650432835
+money: '0'
+last-account-name: ben_jxxx
+lastlocation:
+  world: 4b852c3d-2efe-4749-93b1-a54f62245ac3
+  world-name: world
+  x: 1.5
+  y: 100.0
+  z: 2.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 4b852c3d-2efe-4749-93b1-a54f62245ac3
+  world-name: world
+  x: -140.29747984865003
+  y: 73.25220334025373
+  z: -171.69999998807907
+  yaw: 160.00979614257812
+  pitch: 62.79243850708008
